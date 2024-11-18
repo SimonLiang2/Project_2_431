@@ -1,1 +1,17 @@
 # Project_2_431
+
+The language we'll be studying is Erlang:
+
+Installation of the language
+
+Requirements for the Installation
+
+Main Characteristics of the language
+
+Main Usage of the language
+
+Shortcomings of the language
+
+Plans in the Future
+
+Addtional things to be added
