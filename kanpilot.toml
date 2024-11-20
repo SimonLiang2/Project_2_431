@@ -1,0 +1,119 @@
+name = "Erlang"
+skipFolders = [ "node_modules", ".vscode", "out", "dist", ".vscode-test" ]
+skipFiles = [ ".gitignore", "package.json" ]
+
+[[processes]]
+id = "process1"
+name = "To Do"
+
+  [[processes.tasks]]
+  id = "f05dkrbwk7okytfo3k77c0tl"
+  title = "Main Reason for Using Erlang"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "ogud2c3fleu84n8qqgxlf4qv"
+  title = "Reason why Erlang fell"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "js68ngwww2vn5w59hqjq0bna"
+  title = "Probable Plans in Future for Erlang"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "upk9zre8ejg3dft1htmha94m"
+  title = "Using the language (coding!)"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  priority = ""
+  linkCommits = [ ]
+
+    [[processes.tasks.checkList]]
+    id = "fb2lketzy69eb667tf6slc37"
+    title = "Simple Example"
+    completed = false
+
+    [[processes.tasks.checkList]]
+    id = "wiwripak72zuidvsq14whagb"
+    title = "Intermediate Example"
+    completed = false
+
+    [[processes.tasks.checkList]]
+    id = "i6n3dtza6xov7km639uxsqds"
+    title = "Advanced Example"
+    completed = false
+
+[[processes]]
+id = "process2"
+name = "In Progress"
+
+  [[processes.tasks]]
+  id = "task1"
+  title = "Research on Erlang's Characteristics"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  priority = ""
+  linkCommits = [ ]
+
+    [[processes.tasks.checkList]]
+    id = "uziogpk2p8awax14njyp8ew4"
+    title = "T1"
+    completed = false
+
+    [[processes.tasks.checkList]]
+    id = "x5jtvk8xt7zfpekdm51ngkuy"
+    title = "T2"
+    completed = false
+
+    [[processes.tasks.checkList]]
+    id = "zzbuh86s0wg13s7tgmvb8ftg"
+    title = "T3"
+    completed = false
+
+  [[processes.tasks]]
+  id = "task2"
+  title = "Installation of Erlang Instructions"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  priority = ""
+  linkCommits = [ ]
+
+    [[processes.tasks.checkList]]
+    id = "x6cbp6mbdfrrlakzaqbegtwm"
+    title = "Installation for Mac"
+    completed = false
+
+    [[processes.tasks.checkList]]
+    id = "xitnwdrklvckckywxkrhvf2g"
+    title = "Installation for Windows (preferrably for WSL)"
+    completed = false
+
+[[processes]]
+id = "process3"
+name = "Done"
+tasks = [ ]
