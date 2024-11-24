@@ -105,8 +105,8 @@ name = "In Progress"
 
     [[processes.tasks.checkList]]
     id = "x6cbp6mbdfrrlakzaqbegtwm"
-    title = "Installation for Mac"
-    completed = false
+    title = "Installation for MacOS"
+    completed = true
 
     [[processes.tasks.checkList]]
     id = "xitnwdrklvckckywxkrhvf2g"
