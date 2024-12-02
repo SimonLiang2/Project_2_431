@@ -80,17 +80,17 @@ name = "In Progress"
 
     [[processes.tasks.checkList]]
     id = "uziogpk2p8awax14njyp8ew4"
-    title = "T1"
-    completed = false
+    title = "Concurrency and message passing"
+    completed = true
 
     [[processes.tasks.checkList]]
     id = "x5jtvk8xt7zfpekdm51ngkuy"
-    title = "T2"
-    completed = false
+    title = "Fault tolerance and Reliability"
+    completed = true
 
     [[processes.tasks.checkList]]
     id = "zzbuh86s0wg13s7tgmvb8ftg"
-    title = "T3"
+    title = "To be Discussed"
     completed = false
 
   [[processes.tasks]]
