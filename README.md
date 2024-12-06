@@ -15,3 +15,5 @@ Shortcomings of the language
 Plans in the Future
 
 Addtional things to be added
+
+Sources: https://www.erlang.org/faq/introduction.html and https://www.erlang.org/ for more info
