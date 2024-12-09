@@ -7,17 +7,6 @@ id = "process1"
 name = "To Do"
 
   [[processes.tasks]]
-  id = "ogud2c3fleu84n8qqgxlf4qv"
-  title = "Reason why Erlang fell"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
   id = "js68ngwww2vn5w59hqjq0bna"
   title = "Probable Plans in Future for Erlang"
   description = ""
@@ -76,6 +65,17 @@ name = "In Progress"
     id = "xitnwdrklvckckywxkrhvf2g"
     title = "Installation for Windows (preferrably for WSL)"
     completed = false
+
+  [[processes.tasks]]
+  id = "ogud2c3fleu84n8qqgxlf4qv"
+  title = "Reason why Erlang fell"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
 
 [[processes]]
 id = "process3"
