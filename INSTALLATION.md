@@ -16,6 +16,17 @@ brew install erlang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Build and Installation of Erlang/OTP on any Unix/Linux system including macOS:
+
+1-Using pre built packages:
+
+    For Homebrew on macOS: brew install erlang
+    For MacPorts on macOS: port install erlang
+    For Ubuntu and Debian: apt-get install erlang
+    For Fedora: dnf install erlang
+    For ArchLinux and Manjaro: pacman -S erlang
+    For FreeBSD: pkg install erlang
+
+
 Information taken from:
 https://www.erlang.org/doc/system/install 
 https://www.erlang.org/downloads
