@@ -20,31 +20,7 @@ name = "To Do"
 [[processes]]
 id = "process2"
 name = "In Progress"
-
-  [[processes.tasks]]
-  id = "task2"
-  title = "Installation of Erlang Instructions"
-  description = "<p></p>"
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  priority = ""
-  linkCommits = [ ]
-
-    [[processes.tasks.checkList]]
-    id = "x6cbp6mbdfrrlakzaqbegtwm"
-    title = "Installation for MacOS"
-    completed = true
-
-    [[processes.tasks.checkList]]
-    id = "xitnwdrklvckckywxkrhvf2g"
-    title = "Installation for Windows (preferrably for WSL)"
-    completed = false
-
-    [[processes.tasks.checkList]]
-    id = "xkih57hm1kbbfmfatyhed1iz"
-    title = "Installation Instructions for Unix/Linux"
-    completed = false
+tasks = [ ]
 
 [[processes]]
 id = "process3"
@@ -121,3 +97,28 @@ name = "Done"
   checkList = [ ]
   priority = ""
   linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "task2"
+  title = "Installation of Erlang Instructions"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  priority = ""
+  linkCommits = [ ]
+
+    [[processes.tasks.checkList]]
+    id = "x6cbp6mbdfrrlakzaqbegtwm"
+    title = "Installation for MacOS"
+    completed = true
+
+    [[processes.tasks.checkList]]
+    id = "xitnwdrklvckckywxkrhvf2g"
+    title = "Installation for Windows (preferrably for WSL)"
+    completed = true
+
+    [[processes.tasks.checkList]]
+    id = "xkih57hm1kbbfmfatyhed1iz"
+    title = "Installation Instructions for Unix/Linux"
+    completed = true
