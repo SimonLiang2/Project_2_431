@@ -1,5 +1,7 @@
 # Project_2_431
 
+Simon liang, Christopher Mavros, & Karlo Mohammed
+
 The language we'll be studying is Erlang:
 
 Installation of the language
