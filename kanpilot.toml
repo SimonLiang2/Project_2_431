@@ -17,31 +17,6 @@ name = "To Do"
   priority = ""
   linkCommits = [ ]
 
-  [[processes.tasks]]
-  id = "upk9zre8ejg3dft1htmha94m"
-  title = "Using the language (coding!)"
-  description = "<p></p>"
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  priority = ""
-  linkCommits = [ ]
-
-    [[processes.tasks.checkList]]
-    id = "fb2lketzy69eb667tf6slc37"
-    title = "Simple Example"
-    completed = false
-
-    [[processes.tasks.checkList]]
-    id = "wiwripak72zuidvsq14whagb"
-    title = "Intermediate Example"
-    completed = false
-
-    [[processes.tasks.checkList]]
-    id = "i6n3dtza6xov7km639uxsqds"
-    title = "Advanced Example"
-    completed = false
-
 [[processes]]
 id = "process2"
 name = "In Progress"
@@ -66,16 +41,10 @@ name = "In Progress"
     title = "Installation for Windows (preferrably for WSL)"
     completed = false
 
-  [[processes.tasks]]
-  id = "ogud2c3fleu84n8qqgxlf4qv"
-  title = "Reason why Erlang fell"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
+    [[processes.tasks.checkList]]
+    id = "xkih57hm1kbbfmfatyhed1iz"
+    title = "Installation Instructions for Unix/Linux"
+    completed = false
 
 [[processes]]
 id = "process3"
@@ -109,6 +78,42 @@ name = "Done"
   [[processes.tasks]]
   id = "f05dkrbwk7okytfo3k77c0tl"
   title = "Main Reason for Using Erlang"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "upk9zre8ejg3dft1htmha94m"
+  title = "Using the language (coding!)"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  priority = ""
+  linkCommits = [ ]
+
+    [[processes.tasks.checkList]]
+    id = "fb2lketzy69eb667tf6slc37"
+    title = "Example 1"
+    completed = true
+
+    [[processes.tasks.checkList]]
+    id = "wiwripak72zuidvsq14whagb"
+    title = "Example 2"
+    completed = true
+
+    [[processes.tasks.checkList]]
+    id = "i6n3dtza6xov7km639uxsqds"
+    title = "Example 3"
+    completed = true
+
+  [[processes.tasks]]
+  id = "ogud2c3fleu84n8qqgxlf4qv"
+  title = "Reason why Erlang fell"
   description = ""
   tag = "backlog"
   linkFiles = [ ]
