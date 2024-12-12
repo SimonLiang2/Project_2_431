@@ -98,26 +98,15 @@ name = "Done"
 
     [[processes.tasks.checkList]]
     id = "fb2lketzy69eb667tf6slc37"
-    title = "Example 1"
-    completed = true
+    title = "Simple Example"
+    completed = false
 
     [[processes.tasks.checkList]]
     id = "wiwripak72zuidvsq14whagb"
-    title = "Example 2"
-    completed = true
+    title = "Intermediate Example"
+    completed = false
 
     [[processes.tasks.checkList]]
     id = "i6n3dtza6xov7km639uxsqds"
-    title = "Example 3"
-    completed = true
-
-  [[processes.tasks]]
-  id = "ogud2c3fleu84n8qqgxlf4qv"
-  title = "Reason why Erlang fell"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
+    title = "Advanced Example"
+    completed = false
